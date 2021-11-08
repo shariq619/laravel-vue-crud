@@ -29,7 +29,7 @@
                             </tbody>
                         </table>
 
-                        <pagination :data="tickets" @pagination-change-page="list" :limit=5 ></pagination>
+                        <pagination :data="tickets" @pagination-change-page="list" ></pagination>
 
                     </div>
                 </div>
